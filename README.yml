@@ -21,6 +21,7 @@ paper1:
     url: https://github.com/bigdata-i523/hid336/paper1/report.tex
 
 paper2:
+    exclude: True
     review: Nov 6 2017
     abstract: >
          Computer security threats and attacks are constantly evolving. Everyday, 
