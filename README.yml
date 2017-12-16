@@ -17,9 +17,7 @@ paper1:
         - 336
     status: Oct 25 17
     title: Recommendation Systems on the Web
-    type: latex
     url: https://github.com/bigdata-i523/hid336/paper1/report.tex
-
 paper2:
     exclude: True
     review: Nov 6 2017
@@ -40,8 +38,7 @@ paper2:
         - 336
     status: In Progress
     title: Big Data Analysis for Computer Network Defense
-    type: latex
-url: https://github.com/bigdata-i523/hid336/paper2/report.tex
+    url: https://github.com/bigdata-i523/hid336/paper2/report.tex
 project:
     exclude: True
     review: Dec 4 2017
